@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.cache/
+# raw Blender export (1.4 GB, several files over GitHub's 100 MB limit).
+# The web-ready copy in public/assets/ is committed; regenerate it with `npm run prepare-assets`.
+/assets/
+# old WebGL version kept locally as a backup
+src_old/

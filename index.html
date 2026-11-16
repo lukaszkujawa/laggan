@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Laggan — a Highland village</title>
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Cpath d='M4 52 L22 26 L32 38 L44 18 L60 52 Z' fill='%23456b3a'/%3E%3Ccircle cx='48' cy='14' r='6' fill='%23f2b56b'/%3E%3C/svg%3E" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="/src/style.css" />
+  </head>
+  <body>
+    <canvas id="view"></canvas>
+
+    <div id="loader">
+      <div class="loader-inner">
+        <div class="loader-title">Laggan</div>
+        <div class="loader-sub">Badenoch · Scottish Highlands</div>
+        <div class="bar"><div class="bar-fill" id="bar-fill"></div></div>
+        <div class="loader-status" id="loader-status">Gathering the glen…</div>
+        <div class="loader-backend" id="loader-backend"></div>
+      </div>
+    </div>
+
+    <div id="hud" class="hidden">
+      <div id="clock-card" class="glass">
+        <div id="clock">17:36</div>
+        <div id="clock-sub">Laggan · <span id="phase">evening</span></div>
+      </div>
+
+      <div id="stats" class="glass small"></div>
+
+      <div id="panel" class="glass">
+        <button id="collapse" title="Hide panel (H)">▾</button>
+        <section>
+          <h3>Time of day</h3>
+          <input type="range" id="time" min="0" max="24" step="0.01" value="16.8" />
+          <div class="row">
+            <button class="chip" id="play" title="Pause / play (Space in orbit mode)">❚❚</button>
+            <div class="seg" id="speed">
+              <button data-v="1">1×</button>
+              <button data-v="60" class="on">1 min/s</button>
+              <button data-v="600">10 min/s</button>
+              <button data-v="3600">1 h/s</button>
+            </div>
+          </div>
+          <div class="row presets">
+            <button class="chip" data-hour="5.6">Dawn</button>
+            <button class="chip" data-hour="11">Morning</button>
+            <button class="chip" data-hour="14">Afternoon</button>
+            <button class="chip" data-hour="18.6">Sunset</button>
+            <button class="chip" data-hour="20">Dusk</button>
+            <button class="chip" data-hour="23.5">Night</button>
+          </div>
+        </section>
+        <section>
+          <h3>Weather <label class="toggle"><input type="checkbox" id="auto-weather" /> auto</label></h3>
+          <div class="row wrap" id="weather"></div>
+          <div class="slider-row"><span>Wind</span><input type="range" id="wind" min="0" max="1.6" step="0.01" value="0.45" /><label class="toggle"><input type="checkbox" id="wind-auto" checked /> auto</label></div>
+        </section>
+        <section>
+          <h3>Look</h3>
+          <div class="slider-row"><span>Fantasy</span><input type="range" id="fantasy" min="0" max="1" step="0.01" value="0.75" /></div>
+          <div class="row">
+            <div class="seg" id="quality">
+              <button data-v="low">Low</button>
+              <button data-v="medium">Med</button>
+              <button data-v="high" class="on">High</button>
+              <button data-v="ultra">Ultra</button>
+            </div>
+            <button class="chip" id="sound" title="Ambient sound">🔈 Sound</button>
+          </div>
+          <div class="row">
+            <span class="hint" style="margin:0 4px 0 0">FPS cap</span>
+            <div class="seg" id="fpscap">
+              <button data-v="30">30</button>
+              <button data-v="60" class="on">60</button>
+              <button data-v="0">Off</button>
+            </div>
+          </div>
+        </section>
+        <section>
+          <h3>Camera</h3>
+          <div class="seg" id="cam">
+            <button data-v="orbit" class="on">Orbit</button>
+            <button data-v="walk">Walk</button>
+            <button data-v="fly">Fly</button>
+            <button data-v="tour">Tour</button>
+          </div>
+          <div class="hint" id="cam-hint">Drag to orbit · right-drag to pan · WASD to move</div>
+        </section>
+      </div>
+      <button id="show-panel" class="glass hidden" title="Show panel (H)">☰</button>
+    </div>
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>

@@ -1,0 +1,21 @@
+import { chromium } from 'playwright';
+const browser = await chromium.launch({ channel: 'chrome', headless: false, args: ['--disable-gpu-vsync', '--disable-frame-rate-limit'] });
+const page = await browser.newPage({ viewport: { width: 1920, height: 1080 } });
+await page.goto('http://localhost:5173/?fps=0');
+await page.waitForFunction(() => window.app && window.app.clock, null, { timeout: 300000, polling: 500 });
+await page.evaluate(() => { app.env.paused = true; app.env.hour = 15; app.userQuality = true;
+  const c = app.camera; app.rig.orbit.target.set(120,-11,175); c.position.set(150,-8,215); c.position.y = app.hf.sample(150,215)+2.0; app.rig.orbit.target.y = app.hf.sample(120,175)+3; });
+await page.waitForTimeout(3000);
+const cdp = await page.context().newCDPSession(page);
+await cdp.send('Profiler.enable');
+await cdp.send('Profiler.setSamplingInterval', { interval: 200 });
+await cdp.send('Profiler.start');
+await page.waitForTimeout(3000);
+const { profile } = await cdp.send('Profiler.stop');
+const self = new Map(); const total = profile.samples.length;
+const byId = new Map(profile.nodes.map((n) => [n.id, n]));
+const counts = new Map(); for (const s of profile.samples) counts.set(s, (counts.get(s) || 0) + 1);
+for (const [id, c] of counts) { const n = byId.get(id); const k = `${n.callFrame.functionName || '(anon)'} @ ${n.callFrame.url.split('/').pop().split('?')[0]}:${n.callFrame.lineNumber}`; self.set(k, (self.get(k) || 0) + c); }
+const top = [...self.entries()].sort((a, b) => b[1] - a[1]).slice(0, 25);
+for (const [k, c] of top) console.log((100 * c / total).toFixed(1).padStart(5) + '%  ' + k);
+await browser.close();

@@ -1,0 +1,1153 @@
+{
+ "models": {
+  "fir_tree_01_a_LOD1": {
+   "glb": "vegetation/fir_tree_01_a_LOD1.glb",
+   "nodes": [
+    "fir_tree_01_a_LOD1__lod0",
+    "fir_tree_01_a_LOD1__lod1"
+   ],
+   "instances": "instances/fir_tree_01_a_LOD1.bin",
+   "count": 1833,
+   "plan": "{\"k\":[\"fir_tree_01_a_LOD1__lod0\",\"fir_tree_01_a_LOD1__lod1\"]}"
+  },
+  "fir_tree_01_b_LOD1": {
+   "glb": "vegetation/fir_tree_01_b_LOD1.glb",
+   "nodes": [
+    "fir_tree_01_b_LOD1__lod0",
+    "fir_tree_01_b_LOD1__lod1"
+   ],
+   "instances": "instances/fir_tree_01_b_LOD1.bin",
+   "count": 1861,
+   "plan": "{\"k\":[\"fir_tree_01_b_LOD1__lod0\",\"fir_tree_01_b_LOD1__lod1\"]}"
+  },
+  "fir_tree_01_c_LOD1": {
+   "glb": "vegetation/fir_tree_01_c_LOD1.glb",
+   "nodes": [
+    "fir_tree_01_c_LOD1__lod0",
+    "fir_tree_01_c_LOD1__lod1"
+   ],
+   "instances": "instances/fir_tree_01_c_LOD1.bin",
+   "count": 1786,
+   "plan": "{\"k\":[\"fir_tree_01_c_LOD1__lod0\",\"fir_tree_01_c_LOD1__lod1\"]}"
+  },
+  "pine_tree_01_c_LOD1": {
+   "glb": "vegetation/pine_tree_01_c_LOD1.glb",
+   "nodes": [
+    "pine_tree_01_c_LOD1__lod1",
+    "pine_tree_01_c_LOD1__lod2"
+   ],
+   "instances": "instances/pine_tree_01_c_LOD1.bin",
+   "count": 779,
+   "plan": "{\"k\":[\"pine_tree_01_c_LOD1__lod1\",\"pine_tree_01_c_LOD1__lod2\"]}"
+  },
+  "pine_tree_01_b_LOD1": {
+   "glb": "vegetation/pine_tree_01_b_LOD1.glb",
+   "nodes": [
+    "pine_tree_01_b_LOD1__lod1",
+    "pine_tree_01_b_LOD1__lod2"
+   ],
+   "instances": "instances/pine_tree_01_b_LOD1.bin",
+   "count": 753,
+   "plan": "{\"k\":[\"pine_tree_01_b_LOD1__lod1\",\"pine_tree_01_b_LOD1__lod2\"]}"
+  },
+  "pine_tree_01_a_LOD1": {
+   "glb": "vegetation/pine_tree_01_a_LOD1.glb",
+   "nodes": [
+    "pine_tree_01_a_LOD1__lod1",
+    "pine_tree_01_a_LOD1__lod2"
+   ],
+   "instances": "instances/pine_tree_01_a_LOD1.bin",
+   "count": 790,
+   "plan": "{\"k\":[\"pine_tree_01_a_LOD1__lod1\",\"pine_tree_01_a_LOD1__lod2\"]}"
+  },
+  "tree_small_02_LOD1": {
+   "glb": "vegetation/tree_small_02_LOD1.glb",
+   "nodes": [
+    "tree_small_02_LOD1__lod0",
+    "tree_small_02_LOD1__lod1"
+   ],
+   "instances": "instances/tree_small_02_LOD1.bin",
+   "count": 4655,
+   "plan": "{\"k\":[\"tree_small_02_LOD1__lod0\",\"tree_small_02_LOD1__lod1\"]}"
+  },
+  "island_tree_01_LOD1": {
+   "glb": "vegetation/island_tree_01_LOD1.glb",
+   "nodes": [
+    "island_tree_01_LOD1__lod0",
+    "island_tree_01_LOD1__lod1"
+   ],
+   "instances": "instances/island_tree_01_LOD1.bin",
+   "count": 155,
+   "plan": "{\"k\":[\"island_tree_01_LOD1__lod0\",\"island_tree_01_LOD1__lod1\"]}"
+  },
+  "island_tree_02_LOD1": {
+   "glb": "vegetation/island_tree_02_LOD1.glb",
+   "nodes": [
+    "island_tree_02_LOD1__lod0",
+    "island_tree_02_LOD1__lod1"
+   ],
+   "instances": "instances/island_tree_02_LOD1.bin",
+   "count": 137,
+   "plan": "{\"k\":[\"island_tree_02_LOD1__lod0\",\"island_tree_02_LOD1__lod1\"]}"
+  },
+  "shrub_04_b_LOD1": {
+   "glb": "vegetation/shrub_04_b_LOD1.glb",
+   "nodes": [
+    "shrub_04_b_LOD1__lod0",
+    "shrub_04_b_LOD1__lod1"
+   ],
+   "instances": "instances/shrub_04_b_LOD1.bin",
+   "count": 2542,
+   "plan": "{\"k\":[\"shrub_04_b_LOD1__lod0\",\"shrub_04_b_LOD1__lod1\"]}"
+  },
+  "shrub_01_a_LOD1": {
+   "glb": "vegetation/shrub_01_a_LOD1.glb",
+   "nodes": [
+    "shrub_01_a_LOD1__lod0",
+    "shrub_01_a_LOD1__lod1"
+   ],
+   "instances": "instances/shrub_01_a_LOD1.bin",
+   "count": 2555,
+   "plan": "{\"k\":[\"shrub_01_a_LOD1__lod0\",\"shrub_01_a_LOD1__lod1\"]}"
+  },
+  "shrub_02_c_LOD1": {
+   "glb": "vegetation/shrub_02_c_LOD1.glb",
+   "nodes": [
+    "shrub_02_c_LOD1__lod0",
+    "shrub_02_c_LOD1__lod1"
+   ],
+   "instances": "instances/shrub_02_c_LOD1.bin",
+   "count": 1947,
+   "plan": "{\"k\":[\"shrub_02_c_LOD1__lod0\",\"shrub_02_c_LOD1__lod1\"]}"
+  },
+  "shrub_02_b_LOD1": {
+   "glb": "vegetation/shrub_02_b_LOD1.glb",
+   "nodes": [
+    "shrub_02_b_LOD1__lod0",
+    "shrub_02_b_LOD1__lod1"
+   ],
+   "instances": "instances/shrub_02_b_LOD1.bin",
+   "count": 1947,
+   "plan": "{\"k\":[\"shrub_02_b_LOD1__lod0\",\"shrub_02_b_LOD1__lod1\"]}"
+  },
+  "shrub_01_e_LOD1": {
+   "glb": "vegetation/shrub_01_e_LOD1.glb",
+   "nodes": [
+    "shrub_01_e_LOD1__lod0",
+    "shrub_01_e_LOD1__lod1"
+   ],
+   "instances": "instances/shrub_01_e_LOD1.bin",
+   "count": 2620,
+   "plan": "{\"k\":[\"shrub_01_e_LOD1__lod0\",\"shrub_01_e_LOD1__lod1\"]}"
+  },
+  "shrub_02_d_LOD1": {
+   "glb": "vegetation/shrub_02_d_LOD1.glb",
+   "nodes": [
+    "shrub_02_d_LOD1__lod0",
+    "shrub_02_d_LOD1__lod1"
+   ],
+   "instances": "instances/shrub_02_d_LOD1.bin",
+   "count": 1908,
+   "plan": "{\"k\":[\"shrub_02_d_LOD1__lod0\",\"shrub_02_d_LOD1__lod1\"]}"
+  },
+  "shrub_01_f_LOD1": {
+   "glb": "vegetation/shrub_01_f_LOD1.glb",
+   "nodes": [
+    "shrub_01_f_LOD1__lod0",
+    "shrub_01_f_LOD1__lod1"
+   ],
+   "instances": "instances/shrub_01_f_LOD1.bin",
+   "count": 2554,
+   "plan": "{\"k\":[\"shrub_01_f_LOD1__lod0\",\"shrub_01_f_LOD1__lod1\"]}"
+  },
+  "shrub_04_d_LOD1": {
+   "glb": "vegetation/shrub_04_d_LOD1.glb",
+   "nodes": [
+    "shrub_04_d_LOD1__lod0",
+    "shrub_04_d_LOD1__lod1"
+   ],
+   "instances": "instances/shrub_04_d_LOD1.bin",
+   "count": 2558,
+   "plan": "{\"k\":[\"shrub_04_d_LOD1__lod0\",\"shrub_04_d_LOD1__lod1\"]}"
+  },
+  "shrub_01_d_LOD1": {
+   "glb": "vegetation/shrub_01_d_LOD1.glb",
+   "nodes": [
+    "shrub_01_d_LOD1__lod0",
+    "shrub_01_d_LOD1__lod1"
+   ],
+   "instances": "instances/shrub_01_d_LOD1.bin",
+   "count": 2428,
+   "plan": "{\"k\":[\"shrub_01_d_LOD1__lod0\",\"shrub_01_d_LOD1__lod1\"]}"
+  },
+  "shrub_04_c_LOD1": {
+   "glb": "vegetation/shrub_04_c_LOD1.glb",
+   "nodes": [
+    "shrub_04_c_LOD1__lod0",
+    "shrub_04_c_LOD1__lod1"
+   ],
+   "instances": "instances/shrub_04_c_LOD1.bin",
+   "count": 2462,
+   "plan": "{\"k\":[\"shrub_04_c_LOD1__lod0\",\"shrub_04_c_LOD1__lod1\"]}"
+  },
+  "shrub_02_a_LOD1": {
+   "glb": "vegetation/shrub_02_a_LOD1.glb",
+   "nodes": [
+    "shrub_02_a_LOD1__lod0",
+    "shrub_02_a_LOD1__lod1"
+   ],
+   "instances": "instances/shrub_02_a_LOD1.bin",
+   "count": 1967,
+   "plan": "{\"k\":[\"shrub_02_a_LOD1__lod0\",\"shrub_02_a_LOD1__lod1\"]}"
+  },
+  "shrub_01_b_LOD1": {
+   "glb": "vegetation/shrub_01_b_LOD1.glb",
+   "nodes": [
+    "shrub_01_b_LOD1__lod0",
+    "shrub_01_b_LOD1__lod1"
+   ],
+   "instances": "instances/shrub_01_b_LOD1.bin",
+   "count": 2518,
+   "plan": "{\"k\":[\"shrub_01_b_LOD1__lod0\",\"shrub_01_b_LOD1__lod1\"]}"
+  },
+  "shrub_04_a_LOD1": {
+   "glb": "vegetation/shrub_04_a_LOD1.glb",
+   "nodes": [
+    "shrub_04_a_LOD1__lod0",
+    "shrub_04_a_LOD1__lod1"
+   ],
+   "instances": "instances/shrub_04_a_LOD1.bin",
+   "count": 2464,
+   "plan": "{\"k\":[\"shrub_04_a_LOD1__lod0\",\"shrub_04_a_LOD1__lod1\"]}"
+  },
+  "shrub_01_c_LOD1": {
+   "glb": "vegetation/shrub_01_c_LOD1.glb",
+   "nodes": [
+    "shrub_01_c_LOD1__lod0",
+    "shrub_01_c_LOD1__lod1"
+   ],
+   "instances": "instances/shrub_01_c_LOD1.bin",
+   "count": 2502,
+   "plan": "{\"k\":[\"shrub_01_c_LOD1__lod0\",\"shrub_01_c_LOD1__lod1\"]}"
+  },
+  "fern_02_d": {
+   "glb": "vegetation/fern_02_d.glb",
+   "nodes": [
+    "fern_02_d__lod0"
+   ],
+   "instances": "instances/fern_02_d.bin",
+   "count": 5266,
+   "plan": "{\"k\":[\"fern_02_d__lod0\"]}"
+  },
+  "grass_medium_01_tall_c_LOD1": {
+   "glb": "vegetation/grass_medium_01_tall_c_LOD1.glb",
+   "nodes": [
+    "grass_medium_01_tall_c_LOD1__lod0",
+    "grass_medium_01_tall_c_LOD1__lod1"
+   ],
+   "instances": "instances/grass_medium_01_tall_c_LOD1.bin",
+   "count": 6153,
+   "plan": "{\"k\":[\"grass_medium_01_tall_c_LOD1__lod0\",\"grass_medium_01_tall_c_LOD1__lod1\"]}"
+  },
+  "grass_medium_01_large_c_LOD1": {
+   "glb": "vegetation/grass_medium_01_large_c_LOD1.glb",
+   "nodes": [
+    "grass_medium_01_large_c_LOD1__lod0",
+    "grass_medium_01_large_c_LOD1__lod1"
+   ],
+   "instances": "instances/grass_medium_01_large_c_LOD1.bin",
+   "count": 6142,
+   "plan": "{\"k\":[\"grass_medium_01_large_c_LOD1__lod0\",\"grass_medium_01_large_c_LOD1__lod1\"]}"
+  },
+  "grass_medium_01_large_a_LOD1": {
+   "glb": "vegetation/grass_medium_01_large_a_LOD1.glb",
+   "nodes": [
+    "grass_medium_01_large_a_LOD1__lod0",
+    "grass_medium_01_large_a_LOD1__lod1"
+   ],
+   "instances": "instances/grass_medium_01_large_a_LOD1.bin",
+   "count": 6178,
+   "plan": "{\"k\":[\"grass_medium_01_large_a_LOD1__lod0\",\"grass_medium_01_large_a_LOD1__lod1\"]}"
+  },
+  "fern_02_a": {
+   "glb": "vegetation/fern_02_a.glb",
+   "nodes": [
+    "fern_02_a__lod0"
+   ],
+   "instances": "instances/fern_02_a.bin",
+   "count": 5287,
+   "plan": "{\"k\":[\"fern_02_a__lod0\"]}"
+  },
+  "grass_medium_01_tall_a_LOD1": {
+   "glb": "vegetation/grass_medium_01_tall_a_LOD1.glb",
+   "nodes": [
+    "grass_medium_01_tall_a_LOD1__lod0",
+    "grass_medium_01_tall_a_LOD1__lod1"
+   ],
+   "instances": "instances/grass_medium_01_tall_a_LOD1.bin",
+   "count": 6137,
+   "plan": "{\"k\":[\"grass_medium_01_tall_a_LOD1__lod0\",\"grass_medium_01_tall_a_LOD1__lod1\"]}"
+  },
+  "fern_02_c": {
+   "glb": "vegetation/fern_02_c.glb",
+   "nodes": [
+    "fern_02_c__lod0"
+   ],
+   "instances": "instances/fern_02_c.bin",
+   "count": 5303,
+   "plan": "{\"k\":[\"fern_02_c__lod0\"]}"
+  },
+  "grass_medium_01_large_b_LOD1": {
+   "glb": "vegetation/grass_medium_01_large_b_LOD1.glb",
+   "nodes": [
+    "grass_medium_01_large_b_LOD1__lod0",
+    "grass_medium_01_large_b_LOD1__lod1"
+   ],
+   "instances": "instances/grass_medium_01_large_b_LOD1.bin",
+   "count": 6052,
+   "plan": "{\"k\":[\"grass_medium_01_large_b_LOD1__lod0\",\"grass_medium_01_large_b_LOD1__lod1\"]}"
+  },
+  "fern_02_b": {
+   "glb": "vegetation/fern_02_b.glb",
+   "nodes": [
+    "fern_02_b__lod0"
+   ],
+   "instances": "instances/fern_02_b.bin",
+   "count": 5284,
+   "plan": "{\"k\":[\"fern_02_b__lod0\"]}"
+  },
+  "grass_medium_01_tall_b_LOD1": {
+   "glb": "vegetation/grass_medium_01_tall_b_LOD1.glb",
+   "nodes": [
+    "grass_medium_01_tall_b_LOD1__lod0",
+    "grass_medium_01_tall_b_LOD1__lod1"
+   ],
+   "instances": "instances/grass_medium_01_tall_b_LOD1.bin",
+   "count": 6228,
+   "plan": "{\"k\":[\"grass_medium_01_tall_b_LOD1__lod0\",\"grass_medium_01_tall_b_LOD1__lod1\"]}"
+  },
+  "rock_moss_set_01_rock05": {
+   "glb": "vegetation/rock_moss_set_01_rock05.glb",
+   "nodes": [
+    "rock_moss_set_01_rock05__lod0",
+    "rock_moss_set_01_rock05__lodS"
+   ],
+   "instances": "instances/rock_moss_set_01_rock05.bin",
+   "count": 793,
+   "plan": "{\"k\":[\"rock_moss_set_01_rock05__lod0\"],\"s\":{\"target\":1200,\"from\":\"rock_moss_set_01_rock05__lod0\"}}"
+  },
+  "rock_moss_set_01_rock03": {
+   "glb": "vegetation/rock_moss_set_01_rock03.glb",
+   "nodes": [
+    "rock_moss_set_01_rock03__lod0",
+    "rock_moss_set_01_rock03__lodS"
+   ],
+   "instances": "instances/rock_moss_set_01_rock03.bin",
+   "count": 794,
+   "plan": "{\"k\":[\"rock_moss_set_01_rock03__lod0\"],\"s\":{\"target\":1200,\"from\":\"rock_moss_set_01_rock03__lod0\"}}"
+  },
+  "rock_moss_set_01_rock01": {
+   "glb": "vegetation/rock_moss_set_01_rock01.glb",
+   "nodes": [
+    "rock_moss_set_01_rock01__lod0",
+    "rock_moss_set_01_rock01__lodS"
+   ],
+   "instances": "instances/rock_moss_set_01_rock01.bin",
+   "count": 789,
+   "plan": "{\"k\":[\"rock_moss_set_01_rock01__lod0\"],\"s\":{\"target\":1200,\"from\":\"rock_moss_set_01_rock01__lod0\"}}"
+  },
+  "rock_moss_set_01_rock06": {
+   "glb": "vegetation/rock_moss_set_01_rock06.glb",
+   "nodes": [
+    "rock_moss_set_01_rock06__lod0",
+    "rock_moss_set_01_rock06__lodS"
+   ],
+   "instances": "instances/rock_moss_set_01_rock06.bin",
+   "count": 750,
+   "plan": "{\"k\":[\"rock_moss_set_01_rock06__lod0\"],\"s\":{\"target\":1200,\"from\":\"rock_moss_set_01_rock06__lod0\"}}"
+  },
+  "rock_moss_set_01_rock02": {
+   "glb": "vegetation/rock_moss_set_01_rock02.glb",
+   "nodes": [
+    "rock_moss_set_01_rock02__lod0",
+    "rock_moss_set_01_rock02__lodS"
+   ],
+   "instances": "instances/rock_moss_set_01_rock02.bin",
+   "count": 772,
+   "plan": "{\"k\":[\"rock_moss_set_01_rock02__lod0\"],\"s\":{\"target\":1200,\"from\":\"rock_moss_set_01_rock02__lod0\"}}"
+  },
+  "rock_moss_set_01_rock04": {
+   "glb": "vegetation/rock_moss_set_01_rock04.glb",
+   "nodes": [
+    "rock_moss_set_01_rock04__lod0",
+    "rock_moss_set_01_rock04__lodS"
+   ],
+   "instances": "instances/rock_moss_set_01_rock04.bin",
+   "count": 774,
+   "plan": "{\"k\":[\"rock_moss_set_01_rock04__lod0\"],\"s\":{\"target\":1200,\"from\":\"rock_moss_set_01_rock04__lod0\"}}"
+  },
+  "boulder_01_LOD2": {
+   "glb": "vegetation/boulder_01_LOD2.glb",
+   "nodes": [
+    "boulder_01_LOD2__lod0",
+    "boulder_01_LOD2__lod1"
+   ],
+   "instances": "instances/boulder_01_LOD2.bin",
+   "count": 612,
+   "plan": "{\"k\":[\"boulder_01_LOD2__lod0\",\"boulder_01_LOD2__lod1\"]}"
+  },
+  "moss_01_d_LOD1": {
+   "glb": "vegetation/moss_01_d_LOD1.glb",
+   "nodes": [
+    "moss_01_d_LOD1__lod0",
+    "moss_01_d_LOD1__lod1"
+   ],
+   "instances": "instances/moss_01_d_LOD1.bin",
+   "count": 1832,
+   "plan": "{\"k\":[\"moss_01_d_LOD1__lod0\",\"moss_01_d_LOD1__lod1\"]}"
+  },
+  "moss_01_j_LOD1": {
+   "glb": "vegetation/moss_01_j_LOD1.glb",
+   "nodes": [
+    "moss_01_j_LOD1__lod0",
+    "moss_01_j_LOD1__lod1"
+   ],
+   "instances": "instances/moss_01_j_LOD1.bin",
+   "count": 1845,
+   "plan": "{\"k\":[\"moss_01_j_LOD1__lod0\",\"moss_01_j_LOD1__lod1\"]}"
+  },
+  "moss_01_g_LOD1": {
+   "glb": "vegetation/moss_01_g_LOD1.glb",
+   "nodes": [
+    "moss_01_g_LOD1__lod0",
+    "moss_01_g_LOD1__lod1"
+   ],
+   "instances": "instances/moss_01_g_LOD1.bin",
+   "count": 1972,
+   "plan": "{\"k\":[\"moss_01_g_LOD1__lod0\",\"moss_01_g_LOD1__lod1\"]}"
+  },
+  "moss_01_a_LOD1": {
+   "glb": "vegetation/moss_01_a_LOD1.glb",
+   "nodes": [
+    "moss_01_a_LOD1__lod0",
+    "moss_01_a_LOD1__lod1"
+   ],
+   "instances": "instances/moss_01_a_LOD1.bin",
+   "count": 1910,
+   "plan": "{\"k\":[\"moss_01_a_LOD1__lod0\",\"moss_01_a_LOD1__lod1\"]}"
+  },
+  "moss_01_f_LOD1": {
+   "glb": "vegetation/moss_01_f_LOD1.glb",
+   "nodes": [
+    "moss_01_f_LOD1__lod0",
+    "moss_01_f_LOD1__lod1"
+   ],
+   "instances": "instances/moss_01_f_LOD1.bin",
+   "count": 1806,
+   "plan": "{\"k\":[\"moss_01_f_LOD1__lod0\",\"moss_01_f_LOD1__lod1\"]}"
+  },
+  "moss_01_i_LOD1": {
+   "glb": "vegetation/moss_01_i_LOD1.glb",
+   "nodes": [
+    "moss_01_i_LOD1__lod0"
+   ],
+   "instances": "instances/moss_01_i_LOD1.bin",
+   "count": 1859,
+   "plan": "{\"k\":[\"moss_01_i_LOD1__lod0\"]}"
+  },
+  "moss_01_c_LOD1": {
+   "glb": "vegetation/moss_01_c_LOD1.glb",
+   "nodes": [
+    "moss_01_c_LOD1__lod0",
+    "moss_01_c_LOD1__lod1"
+   ],
+   "instances": "instances/moss_01_c_LOD1.bin",
+   "count": 1853,
+   "plan": "{\"k\":[\"moss_01_c_LOD1__lod0\",\"moss_01_c_LOD1__lod1\"]}"
+  },
+  "moss_01_b_LOD1": {
+   "glb": "vegetation/moss_01_b_LOD1.glb",
+   "nodes": [
+    "moss_01_b_LOD1__lod0",
+    "moss_01_b_LOD1__lod1"
+   ],
+   "instances": "instances/moss_01_b_LOD1.bin",
+   "count": 1857,
+   "plan": "{\"k\":[\"moss_01_b_LOD1__lod0\",\"moss_01_b_LOD1__lod1\"]}"
+  },
+  "moss_01_h_LOD1": {
+   "glb": "vegetation/moss_01_h_LOD1.glb",
+   "nodes": [
+    "moss_01_h_LOD1__lod0"
+   ],
+   "instances": "instances/moss_01_h_LOD1.bin",
+   "count": 1887,
+   "plan": "{\"k\":[\"moss_01_h_LOD1__lod0\"]}"
+  },
+  "moss_01_e_LOD1": {
+   "glb": "vegetation/moss_01_e_LOD1.glb",
+   "nodes": [
+    "moss_01_e_LOD1__lod0",
+    "moss_01_e_LOD1__lod1"
+   ],
+   "instances": "instances/moss_01_e_LOD1.bin",
+   "count": 1903,
+   "plan": "{\"k\":[\"moss_01_e_LOD1__lod0\",\"moss_01_e_LOD1__lod1\"]}"
+  },
+  "moss_01_tall_b_LOD1": {
+   "glb": "vegetation/moss_01_tall_b_LOD1.glb",
+   "nodes": [
+    "moss_01_tall_b_LOD1__lod0",
+    "moss_01_tall_b_LOD1__lod1"
+   ],
+   "instances": "instances/moss_01_tall_b_LOD1.bin",
+   "count": 6538,
+   "plan": "{\"k\":[\"moss_01_tall_b_LOD1__lod0\",\"moss_01_tall_b_LOD1__lod1\"]}"
+  },
+  "moss_01_tall_a_LOD1": {
+   "glb": "vegetation/moss_01_tall_a_LOD1.glb",
+   "nodes": [
+    "moss_01_tall_a_LOD1__lod0",
+    "moss_01_tall_a_LOD1__lod1"
+   ],
+   "instances": "instances/moss_01_tall_a_LOD1.bin",
+   "count": 6591,
+   "plan": "{\"k\":[\"moss_01_tall_a_LOD1__lod0\",\"moss_01_tall_a_LOD1__lod1\"]}"
+  },
+  "bark_debris_01_d_LOD1": {
+   "glb": "vegetation/bark_debris_01_d_LOD1.glb",
+   "nodes": [
+    "bark_debris_01_d_LOD1__lod1",
+    "bark_debris_01_d_LOD1__lodS"
+   ],
+   "instances": "instances/bark_debris_01_d_LOD1.bin",
+   "count": 2932,
+   "plan": "{\"k\":[\"bark_debris_01_d_LOD1__lod1\"],\"s\":{\"target\":1500,\"from\":\"bark_debris_01_d_LOD1__lod1\"}}"
+  },
+  "dry_branches_medium_01_b": {
+   "glb": "vegetation/dry_branches_medium_01_b.glb",
+   "nodes": [
+    "dry_branches_medium_01_b__lod0",
+    "dry_branches_medium_01_b__lodS"
+   ],
+   "instances": "instances/dry_branches_medium_01_b.bin",
+   "count": 2916,
+   "plan": "{\"k\":[\"dry_branches_medium_01_b__lod0\"],\"s\":{\"target\":900,\"from\":\"dry_branches_medium_01_b__lod0\"}}"
+  },
+  "bark_debris_01_a_LOD1": {
+   "glb": "vegetation/bark_debris_01_a_LOD1.glb",
+   "nodes": [
+    "bark_debris_01_a_LOD1__lod1",
+    "bark_debris_01_a_LOD1__lodS"
+   ],
+   "instances": "instances/bark_debris_01_a_LOD1.bin",
+   "count": 2887,
+   "plan": "{\"k\":[\"bark_debris_01_a_LOD1__lod1\"],\"s\":{\"target\":1500,\"from\":\"bark_debris_01_a_LOD1__lod1\"}}"
+  },
+  "pine_roots_a": {
+   "glb": "vegetation/pine_roots_a.glb",
+   "nodes": [
+    "pine_roots_a__lod1",
+    "pine_roots_a__lodS"
+   ],
+   "instances": "instances/pine_roots_a.bin",
+   "count": 2919,
+   "plan": "{\"k\":[\"pine_roots_a__lod1\"],\"s\":{\"target\":4000,\"from\":\"pine_roots_a__lod1\"}}"
+  },
+  "pine_roots_b": {
+   "glb": "vegetation/pine_roots_b.glb",
+   "nodes": [
+    "pine_roots_b__lod1",
+    "pine_roots_b__lodS"
+   ],
+   "instances": "instances/pine_roots_b.bin",
+   "count": 2915,
+   "plan": "{\"k\":[\"pine_roots_b__lod1\"],\"s\":{\"target\":4000,\"from\":\"pine_roots_b__lod1\"}}"
+  },
+  "dry_branches_medium_01_c": {
+   "glb": "vegetation/dry_branches_medium_01_c.glb",
+   "nodes": [
+    "dry_branches_medium_01_c__lod0",
+    "dry_branches_medium_01_c__lodS"
+   ],
+   "instances": "instances/dry_branches_medium_01_c.bin",
+   "count": 2876,
+   "plan": "{\"k\":[\"dry_branches_medium_01_c__lod0\"],\"s\":{\"target\":900,\"from\":\"dry_branches_medium_01_c__lod0\"}}"
+  },
+  "dry_branches_medium_01_a": {
+   "glb": "vegetation/dry_branches_medium_01_a.glb",
+   "nodes": [
+    "dry_branches_medium_01_a__lod0",
+    "dry_branches_medium_01_a__lodS"
+   ],
+   "instances": "instances/dry_branches_medium_01_a.bin",
+   "count": 2845,
+   "plan": "{\"k\":[\"dry_branches_medium_01_a__lod0\"],\"s\":{\"target\":900,\"from\":\"dry_branches_medium_01_a__lod0\"}}"
+  },
+  "bark_debris_01_c_LOD1": {
+   "glb": "vegetation/bark_debris_01_c_LOD1.glb",
+   "nodes": [
+    "bark_debris_01_c_LOD1__lod1",
+    "bark_debris_01_c_LOD1__lodS"
+   ],
+   "instances": "instances/bark_debris_01_c_LOD1.bin",
+   "count": 2943,
+   "plan": "{\"k\":[\"bark_debris_01_c_LOD1__lod1\"],\"s\":{\"target\":1500,\"from\":\"bark_debris_01_c_LOD1__lod1\"}}"
+  },
+  "bark_debris_01_b_LOD1": {
+   "glb": "vegetation/bark_debris_01_b_LOD1.glb",
+   "nodes": [
+    "bark_debris_01_b_LOD1__lod1",
+    "bark_debris_01_b_LOD1__lodS"
+   ],
+   "instances": "instances/bark_debris_01_b_LOD1.bin",
+   "count": 2910,
+   "plan": "{\"k\":[\"bark_debris_01_b_LOD1__lod1\"],\"s\":{\"target\":1500,\"from\":\"bark_debris_01_b_LOD1__lod1\"}}"
+  },
+  "fir_sapling_b": {
+   "glb": "vegetation/fir_sapling_b.glb",
+   "nodes": [
+    "fir_sapling_b__lod1",
+    "fir_sapling_b__lodS"
+   ],
+   "instances": "instances/fir_sapling_b.bin",
+   "count": 1022,
+   "plan": "{\"k\":[\"fir_sapling_b__lod1\"],\"s\":{\"target\":6000,\"from\":\"fir_sapling_b__lod1\"}}"
+  },
+  "pine_sapling_small_c": {
+   "glb": "vegetation/pine_sapling_small_c.glb",
+   "nodes": [
+    "pine_sapling_small_c__lod1",
+    "pine_sapling_small_c__lodS"
+   ],
+   "instances": "instances/pine_sapling_small_c.bin",
+   "count": 993,
+   "plan": "{\"k\":[\"pine_sapling_small_c__lod1\"],\"s\":{\"target\":6000,\"from\":\"pine_sapling_small_c__lod1\"}}"
+  },
+  "pine_sapling_small_b": {
+   "glb": "vegetation/pine_sapling_small_b.glb",
+   "nodes": [
+    "pine_sapling_small_b__lod1",
+    "pine_sapling_small_b__lodS"
+   ],
+   "instances": "instances/pine_sapling_small_b.bin",
+   "count": 1010,
+   "plan": "{\"k\":[\"pine_sapling_small_b__lod1\"],\"s\":{\"target\":6000,\"from\":\"pine_sapling_small_b__lod1\"}}"
+  },
+  "pine_sapling_small_a": {
+   "glb": "vegetation/pine_sapling_small_a.glb",
+   "nodes": [
+    "pine_sapling_small_a__lod1",
+    "pine_sapling_small_a__lodS"
+   ],
+   "instances": "instances/pine_sapling_small_a.bin",
+   "count": 1053,
+   "plan": "{\"k\":[\"pine_sapling_small_a__lod1\"],\"s\":{\"target\":6000,\"from\":\"pine_sapling_small_a__lod1\"}}"
+  },
+  "fir_sapling_a": {
+   "glb": "vegetation/fir_sapling_a.glb",
+   "nodes": [
+    "fir_sapling_a__lod1",
+    "fir_sapling_a__lodS"
+   ],
+   "instances": "instances/fir_sapling_a.bin",
+   "count": 971,
+   "plan": "{\"k\":[\"fir_sapling_a__lod1\"],\"s\":{\"target\":6000,\"from\":\"fir_sapling_a__lod1\"}}"
+  },
+  "fir_sapling_c": {
+   "glb": "vegetation/fir_sapling_c.glb",
+   "nodes": [
+    "fir_sapling_c__lod1",
+    "fir_sapling_c__lodS"
+   ],
+   "instances": "instances/fir_sapling_c.bin",
+   "count": 1021,
+   "plan": "{\"k\":[\"fir_sapling_c__lod1\"],\"s\":{\"target\":6000,\"from\":\"fir_sapling_c__lod1\"}}"
+  },
+  "pine_sapling_medium_c_LOD1": {
+   "glb": "vegetation/pine_sapling_medium_c_LOD1.glb",
+   "nodes": [
+    "pine_sapling_medium_c_LOD1__lod1",
+    "pine_sapling_medium_c_LOD1__lodS"
+   ],
+   "instances": "instances/pine_sapling_medium_c_LOD1.bin",
+   "count": 768,
+   "plan": "{\"k\":[\"pine_sapling_medium_c_LOD1__lod1\"],\"s\":{\"target\":7000,\"from\":\"pine_sapling_medium_c_LOD1__lod1\"}}"
+  },
+  "pine_sapling_medium_a_LOD1": {
+   "glb": "vegetation/pine_sapling_medium_a_LOD1.glb",
+   "nodes": [
+    "pine_sapling_medium_a_LOD1__lod1",
+    "pine_sapling_medium_a_LOD1__lodS"
+   ],
+   "instances": "instances/pine_sapling_medium_a_LOD1.bin",
+   "count": 645,
+   "plan": "{\"k\":[\"pine_sapling_medium_a_LOD1__lod1\"],\"s\":{\"target\":7000,\"from\":\"pine_sapling_medium_a_LOD1__lod1\"}}"
+  },
+  "pine_sapling_medium_b_LOD1": {
+   "glb": "vegetation/pine_sapling_medium_b_LOD1.glb",
+   "nodes": [
+    "pine_sapling_medium_b_LOD1__lod1",
+    "pine_sapling_medium_b_LOD1__lodS"
+   ],
+   "instances": "instances/pine_sapling_medium_b_LOD1.bin",
+   "count": 687,
+   "plan": "{\"k\":[\"pine_sapling_medium_b_LOD1__lod1\"],\"s\":{\"target\":7000,\"from\":\"pine_sapling_medium_b_LOD1__lod1\"}}"
+  },
+  "dead_tree_trunk": {
+   "glb": "vegetation/dead_tree_trunk.glb",
+   "nodes": [
+    "dead_tree_trunk__lod1",
+    "dead_tree_trunk__lodS"
+   ],
+   "instances": "instances/dead_tree_trunk.bin",
+   "count": 62,
+   "plan": "{\"k\":[\"dead_tree_trunk__lod1\"],\"s\":{\"target\":4000,\"from\":\"dead_tree_trunk__lod1\"}}"
+  },
+  "dead_tree_trunk_02_LOD1": {
+   "glb": "vegetation/dead_tree_trunk_02_LOD1.glb",
+   "nodes": [
+    "dead_tree_trunk_02_LOD1__lod1",
+    "dead_tree_trunk_02_LOD1__lodS"
+   ],
+   "instances": "instances/dead_tree_trunk_02_LOD1.bin",
+   "count": 77,
+   "plan": "{\"k\":[\"dead_tree_trunk_02_LOD1__lod1\"],\"s\":{\"target\":4000,\"from\":\"dead_tree_trunk_02_LOD1__lod1\"}}"
+  },
+  "tree_stump_01": {
+   "glb": "vegetation/tree_stump_01.glb",
+   "nodes": [
+    "tree_stump_01__lod1",
+    "tree_stump_01__lodS"
+   ],
+   "instances": "instances/tree_stump_01.bin",
+   "count": 71,
+   "plan": "{\"k\":[\"tree_stump_01__lod1\"],\"s\":{\"target\":4000,\"from\":\"tree_stump_01__lod1\"}}"
+  },
+  "root_cluster_01": {
+   "glb": "vegetation/root_cluster_01.glb",
+   "nodes": [
+    "root_cluster_01__lod1",
+    "root_cluster_01__lodS"
+   ],
+   "instances": "instances/root_cluster_01.bin",
+   "count": 67,
+   "plan": "{\"k\":[\"root_cluster_01__lod1\"],\"s\":{\"target\":4000,\"from\":\"root_cluster_01__lod1\"}}"
+  },
+  "tree_stump_02": {
+   "glb": "vegetation/tree_stump_02.glb",
+   "nodes": [
+    "tree_stump_02__lod1",
+    "tree_stump_02__lodS"
+   ],
+   "instances": "instances/tree_stump_02.bin",
+   "count": 78,
+   "plan": "{\"k\":[\"tree_stump_02__lod1\"],\"s\":{\"target\":4000,\"from\":\"tree_stump_02__lod1\"}}"
+  },
+  "nettle_plant_medium_b_LOD1": {
+   "glb": "vegetation/nettle_plant_medium_b_LOD1.glb",
+   "nodes": [
+    "nettle_plant_medium_b_LOD1__lod0",
+    "nettle_plant_medium_b_LOD1__lod1"
+   ],
+   "instances": "instances/nettle_plant_medium_b_LOD1.bin",
+   "count": 402,
+   "plan": "{\"k\":[\"nettle_plant_medium_b_LOD1__lod0\",\"nettle_plant_medium_b_LOD1__lod1\"]}"
+  },
+  "nettle_plant_small_b_LOD1": {
+   "glb": "vegetation/nettle_plant_small_b_LOD1.glb",
+   "nodes": [
+    "nettle_plant_small_b_LOD1__lod0",
+    "nettle_plant_small_b_LOD1__lod1"
+   ],
+   "instances": "instances/nettle_plant_small_b_LOD1.bin",
+   "count": 445,
+   "plan": "{\"k\":[\"nettle_plant_small_b_LOD1__lod0\",\"nettle_plant_small_b_LOD1__lod1\"]}"
+  },
+  "nettle_plant_medium_a_LOD1": {
+   "glb": "vegetation/nettle_plant_medium_a_LOD1.glb",
+   "nodes": [
+    "nettle_plant_medium_a_LOD1__lod0",
+    "nettle_plant_medium_a_LOD1__lod1"
+   ],
+   "instances": "instances/nettle_plant_medium_a_LOD1.bin",
+   "count": 434,
+   "plan": "{\"k\":[\"nettle_plant_medium_a_LOD1__lod0\",\"nettle_plant_medium_a_LOD1__lod1\"]}"
+  },
+  "nettle_plant_small_a_LOD1": {
+   "glb": "vegetation/nettle_plant_small_a_LOD1.glb",
+   "nodes": [
+    "nettle_plant_small_a_LOD1__lod0",
+    "nettle_plant_small_a_LOD1__lod1"
+   ],
+   "instances": "instances/nettle_plant_small_a_LOD1.bin",
+   "count": 391,
+   "plan": "{\"k\":[\"nettle_plant_small_a_LOD1__lod0\",\"nettle_plant_small_a_LOD1__lod1\"]}"
+  },
+  "nettle_plant_tall_a_LOD1": {
+   "glb": "vegetation/nettle_plant_tall_a_LOD1.glb",
+   "nodes": [
+    "nettle_plant_tall_a_LOD1__lod0",
+    "nettle_plant_tall_a_LOD1__lod1"
+   ],
+   "instances": "instances/nettle_plant_tall_a_LOD1.bin",
+   "count": 427,
+   "plan": "{\"k\":[\"nettle_plant_tall_a_LOD1__lod0\",\"nettle_plant_tall_a_LOD1__lod1\"]}"
+  },
+  "nettle_plant_tall_b_LOD1": {
+   "glb": "vegetation/nettle_plant_tall_b_LOD1.glb",
+   "nodes": [
+    "nettle_plant_tall_b_LOD1__lod0",
+    "nettle_plant_tall_b_LOD1__lod1"
+   ],
+   "instances": "instances/nettle_plant_tall_b_LOD1.bin",
+   "count": 386,
+   "plan": "{\"k\":[\"nettle_plant_tall_b_LOD1__lod0\",\"nettle_plant_tall_b_LOD1__lod1\"]}"
+  },
+  "weed_plant_02_d_LOD1": {
+   "glb": "vegetation/weed_plant_02_d_LOD1.glb",
+   "nodes": [
+    "weed_plant_02_d_LOD1__lod0",
+    "weed_plant_02_d_LOD1__lod1"
+   ],
+   "instances": "instances/weed_plant_02_d_LOD1.bin",
+   "count": 586,
+   "plan": "{\"k\":[\"weed_plant_02_d_LOD1__lod0\",\"weed_plant_02_d_LOD1__lod1\"]}"
+  },
+  "weed_plant_02_a_LOD1": {
+   "glb": "vegetation/weed_plant_02_a_LOD1.glb",
+   "nodes": [
+    "weed_plant_02_a_LOD1__lod0",
+    "weed_plant_02_a_LOD1__lod1"
+   ],
+   "instances": "instances/weed_plant_02_a_LOD1.bin",
+   "count": 566,
+   "plan": "{\"k\":[\"weed_plant_02_a_LOD1__lod0\",\"weed_plant_02_a_LOD1__lod1\"]}"
+  },
+  "weed_plant_02_e_LOD1": {
+   "glb": "vegetation/weed_plant_02_e_LOD1.glb",
+   "nodes": [
+    "weed_plant_02_e_LOD1__lod0",
+    "weed_plant_02_e_LOD1__lod1"
+   ],
+   "instances": "instances/weed_plant_02_e_LOD1.bin",
+   "count": 579,
+   "plan": "{\"k\":[\"weed_plant_02_e_LOD1__lod0\",\"weed_plant_02_e_LOD1__lod1\"]}"
+  },
+  "weed_plant_02_c_LOD1": {
+   "glb": "vegetation/weed_plant_02_c_LOD1.glb",
+   "nodes": [
+    "weed_plant_02_c_LOD1__lod0",
+    "weed_plant_02_c_LOD1__lod1"
+   ],
+   "instances": "instances/weed_plant_02_c_LOD1.bin",
+   "count": 573,
+   "plan": "{\"k\":[\"weed_plant_02_c_LOD1__lod0\",\"weed_plant_02_c_LOD1__lod1\"]}"
+  },
+  "weed_plant_02_b_LOD1": {
+   "glb": "vegetation/weed_plant_02_b_LOD1.glb",
+   "nodes": [
+    "weed_plant_02_b_LOD1__lod0",
+    "weed_plant_02_b_LOD1__lod1"
+   ],
+   "instances": "instances/weed_plant_02_b_LOD1.bin",
+   "count": 578,
+   "plan": "{\"k\":[\"weed_plant_02_b_LOD1__lod0\",\"weed_plant_02_b_LOD1__lod1\"]}"
+  },
+  "celandine_01_c_LOD1": {
+   "glb": "vegetation/celandine_01_c_LOD1.glb",
+   "nodes": [
+    "celandine_01_c_LOD1__lod0",
+    "celandine_01_c_LOD1__lod1"
+   ],
+   "instances": "instances/celandine_01_c_LOD1.bin",
+   "count": 804,
+   "plan": "{\"k\":[\"celandine_01_c_LOD1__lod0\",\"celandine_01_c_LOD1__lod1\"]}"
+  },
+  "celandine_01_e_LOD1": {
+   "glb": "vegetation/celandine_01_e_LOD1.glb",
+   "nodes": [
+    "celandine_01_e_LOD1__lod0",
+    "celandine_01_e_LOD1__lod1"
+   ],
+   "instances": "instances/celandine_01_e_LOD1.bin",
+   "count": 828,
+   "plan": "{\"k\":[\"celandine_01_e_LOD1__lod0\",\"celandine_01_e_LOD1__lod1\"]}"
+  },
+  "dandelion_01_e_LOD1": {
+   "glb": "vegetation/dandelion_01_e_LOD1.glb",
+   "nodes": [
+    "dandelion_01_e_LOD1__lod0",
+    "dandelion_01_e_LOD1__lod1"
+   ],
+   "instances": "instances/dandelion_01_e_LOD1.bin",
+   "count": 797,
+   "plan": "{\"k\":[\"dandelion_01_e_LOD1__lod0\",\"dandelion_01_e_LOD1__lod1\"]}"
+  },
+  "celandine_01_a_LOD1": {
+   "glb": "vegetation/celandine_01_a_LOD1.glb",
+   "nodes": [
+    "celandine_01_a_LOD1__lod0",
+    "celandine_01_a_LOD1__lod1"
+   ],
+   "instances": "instances/celandine_01_a_LOD1.bin",
+   "count": 850,
+   "plan": "{\"k\":[\"celandine_01_a_LOD1__lod0\",\"celandine_01_a_LOD1__lod1\"]}"
+  },
+  "dandelion_01_c_LOD1": {
+   "glb": "vegetation/dandelion_01_c_LOD1.glb",
+   "nodes": [
+    "dandelion_01_c_LOD1__lod0",
+    "dandelion_01_c_LOD1__lod1"
+   ],
+   "instances": "instances/dandelion_01_c_LOD1.bin",
+   "count": 820,
+   "plan": "{\"k\":[\"dandelion_01_c_LOD1__lod0\",\"dandelion_01_c_LOD1__lod1\"]}"
+  },
+  "celandine_01_d_LOD1": {
+   "glb": "vegetation/celandine_01_d_LOD1.glb",
+   "nodes": [
+    "celandine_01_d_LOD1__lod0",
+    "celandine_01_d_LOD1__lod1"
+   ],
+   "instances": "instances/celandine_01_d_LOD1.bin",
+   "count": 835,
+   "plan": "{\"k\":[\"celandine_01_d_LOD1__lod0\",\"celandine_01_d_LOD1__lod1\"]}"
+  },
+  "dandelion_01_b_LOD1": {
+   "glb": "vegetation/dandelion_01_b_LOD1.glb",
+   "nodes": [
+    "dandelion_01_b_LOD1__lod0",
+    "dandelion_01_b_LOD1__lod1"
+   ],
+   "instances": "instances/dandelion_01_b_LOD1.bin",
+   "count": 909,
+   "plan": "{\"k\":[\"dandelion_01_b_LOD1__lod0\",\"dandelion_01_b_LOD1__lod1\"]}"
+  },
+  "celandine_01_b_LOD1": {
+   "glb": "vegetation/celandine_01_b_LOD1.glb",
+   "nodes": [
+    "celandine_01_b_LOD1__lod0",
+    "celandine_01_b_LOD1__lod1"
+   ],
+   "instances": "instances/celandine_01_b_LOD1.bin",
+   "count": 824,
+   "plan": "{\"k\":[\"celandine_01_b_LOD1__lod0\",\"celandine_01_b_LOD1__lod1\"]}"
+  },
+  "dandelion_01_a_LOD1": {
+   "glb": "vegetation/dandelion_01_a_LOD1.glb",
+   "nodes": [
+    "dandelion_01_a_LOD1__lod0",
+    "dandelion_01_a_LOD1__lod1"
+   ],
+   "instances": "instances/dandelion_01_a_LOD1.bin",
+   "count": 884,
+   "plan": "{\"k\":[\"dandelion_01_a_LOD1__lod0\",\"dandelion_01_a_LOD1__lod1\"]}"
+  },
+  "dandelion_01_d_LOD1": {
+   "glb": "vegetation/dandelion_01_d_LOD1.glb",
+   "nodes": [
+    "dandelion_01_d_LOD1__lod0",
+    "dandelion_01_d_LOD1__lod1"
+   ],
+   "instances": "instances/dandelion_01_d_LOD1.bin",
+   "count": 834,
+   "plan": "{\"k\":[\"dandelion_01_d_LOD1__lod0\",\"dandelion_01_d_LOD1__lod1\"]}"
+  },
+  "grass_medium_02_d": {
+   "glb": "vegetation/grass_medium_02_d.glb",
+   "nodes": [
+    "grass_medium_02_d__lod0"
+   ],
+   "instances": "instances/grass_medium_02_d.bin",
+   "count": 1164,
+   "plan": "{\"k\":[\"grass_medium_02_d__lod0\"]}"
+  },
+  "grass_medium_02_a": {
+   "glb": "vegetation/grass_medium_02_a.glb",
+   "nodes": [
+    "grass_medium_02_a__lod0"
+   ],
+   "instances": "instances/grass_medium_02_a.bin",
+   "count": 1153,
+   "plan": "{\"k\":[\"grass_medium_02_a__lod0\"]}"
+  },
+  "grass_medium_02_b": {
+   "glb": "vegetation/grass_medium_02_b.glb",
+   "nodes": [
+    "grass_medium_02_b__lod0"
+   ],
+   "instances": "instances/grass_medium_02_b.bin",
+   "count": 1203,
+   "plan": "{\"k\":[\"grass_medium_02_b__lod0\"]}"
+  },
+  "grass_medium_02_e": {
+   "glb": "vegetation/grass_medium_02_e.glb",
+   "nodes": [
+    "grass_medium_02_e__lod0"
+   ],
+   "instances": "instances/grass_medium_02_e.bin",
+   "count": 1228,
+   "plan": "{\"k\":[\"grass_medium_02_e__lod0\"]}"
+  },
+  "grass_medium_02_c": {
+   "glb": "vegetation/grass_medium_02_c.glb",
+   "nodes": [
+    "grass_medium_02_c__lod0"
+   ],
+   "instances": "instances/grass_medium_02_c.bin",
+   "count": 1200,
+   "plan": "{\"k\":[\"grass_medium_02_c__lod0\"]}"
+  },
+  "rock_moss_set_02_rock12": {
+   "glb": "vegetation/rock_moss_set_02_rock12.glb",
+   "nodes": [
+    "rock_moss_set_02_rock12__lod0",
+    "rock_moss_set_02_rock12__lodS"
+   ],
+   "instances": "instances/rock_moss_set_02_rock12.bin",
+   "count": 1073,
+   "plan": "{\"k\":[\"rock_moss_set_02_rock12__lod0\"],\"s\":{\"target\":1200,\"from\":\"rock_moss_set_02_rock12__lod0\"}}"
+  },
+  "rock_moss_set_02_rock13": {
+   "glb": "vegetation/rock_moss_set_02_rock13.glb",
+   "nodes": [
+    "rock_moss_set_02_rock13__lod0",
+    "rock_moss_set_02_rock13__lodS"
+   ],
+   "instances": "instances/rock_moss_set_02_rock13.bin",
+   "count": 1111,
+   "plan": "{\"k\":[\"rock_moss_set_02_rock13__lod0\"],\"s\":{\"target\":1200,\"from\":\"rock_moss_set_02_rock13__lod0\"}}"
+  },
+  "rock_moss_set_02_rock07": {
+   "glb": "vegetation/rock_moss_set_02_rock07.glb",
+   "nodes": [
+    "rock_moss_set_02_rock07__lod0",
+    "rock_moss_set_02_rock07__lodS"
+   ],
+   "instances": "instances/rock_moss_set_02_rock07.bin",
+   "count": 1057,
+   "plan": "{\"k\":[\"rock_moss_set_02_rock07__lod0\"],\"s\":{\"target\":1200,\"from\":\"rock_moss_set_02_rock07__lod0\"}}"
+  },
+  "stone_01_LOD1": {
+   "glb": "vegetation/stone_01_LOD1.glb",
+   "nodes": [
+    "stone_01_LOD1__lod0",
+    "stone_01_LOD1__lod1"
+   ],
+   "instances": "instances/stone_01_LOD1.bin",
+   "count": 1077,
+   "plan": "{\"k\":[\"stone_01_LOD1__lod0\",\"stone_01_LOD1__lod1\"]}"
+  },
+  "rock_moss_set_02_rock08": {
+   "glb": "vegetation/rock_moss_set_02_rock08.glb",
+   "nodes": [
+    "rock_moss_set_02_rock08__lod0",
+    "rock_moss_set_02_rock08__lodS"
+   ],
+   "instances": "instances/rock_moss_set_02_rock08.bin",
+   "count": 1152,
+   "plan": "{\"k\":[\"rock_moss_set_02_rock08__lod0\"],\"s\":{\"target\":1200,\"from\":\"rock_moss_set_02_rock08__lod0\"}}"
+  },
+  "rock_moss_set_02_rock11": {
+   "glb": "vegetation/rock_moss_set_02_rock11.glb",
+   "nodes": [
+    "rock_moss_set_02_rock11__lod0",
+    "rock_moss_set_02_rock11__lodS"
+   ],
+   "instances": "instances/rock_moss_set_02_rock11.bin",
+   "count": 1142,
+   "plan": "{\"k\":[\"rock_moss_set_02_rock11__lod0\"],\"s\":{\"target\":1200,\"from\":\"rock_moss_set_02_rock11__lod0\"}}"
+  },
+  "rock_moss_set_02_rock09": {
+   "glb": "vegetation/rock_moss_set_02_rock09.glb",
+   "nodes": [
+    "rock_moss_set_02_rock09__lod0",
+    "rock_moss_set_02_rock09__lodS"
+   ],
+   "instances": "instances/rock_moss_set_02_rock09.bin",
+   "count": 1172,
+   "plan": "{\"k\":[\"rock_moss_set_02_rock09__lod0\"],\"s\":{\"target\":1200,\"from\":\"rock_moss_set_02_rock09__lod0\"}}"
+  },
+  "rock_moss_set_02_rock10": {
+   "glb": "vegetation/rock_moss_set_02_rock10.glb",
+   "nodes": [
+    "rock_moss_set_02_rock10__lod0",
+    "rock_moss_set_02_rock10__lodS"
+   ],
+   "instances": "instances/rock_moss_set_02_rock10.bin",
+   "count": 1104,
+   "plan": "{\"k\":[\"rock_moss_set_02_rock10__lod0\"],\"s\":{\"target\":1200,\"from\":\"rock_moss_set_02_rock10__lod0\"}}"
+  },
+  "garden_tree_01": {
+   "glb": "vegetation/garden_tree_01.glb",
+   "nodes": [
+    "garden_tree_01__lod0",
+    "garden_tree_01__lod1"
+   ],
+   "instances": "instances/garden_tree_01.bin",
+   "count": 1,
+   "plan": "{\"k\":[\"garden_tree_01__lod0\",\"garden_tree_01__lod1\"]}"
+  },
+  "garden_tree_young_01": {
+   "glb": "vegetation/garden_tree_young_01.glb",
+   "nodes": [
+    "garden_tree_young_01__lod0",
+    "garden_tree_young_01__lod1"
+   ],
+   "instances": "instances/garden_tree_young_01.bin",
+   "count": 1,
+   "plan": "{\"k\":[\"garden_tree_young_01__lod0\",\"garden_tree_young_01__lod1\"]}"
+  },
+  "garden_birch_07": {
+   "glb": "vegetation/garden_birch_07.glb",
+   "nodes": [
+    "garden_birch_07__lod0",
+    "garden_birch_07__lod1"
+   ],
+   "instances": "instances/garden_birch_07.bin",
+   "count": 2,
+   "plan": "{\"k\":[\"garden_birch_07__lod0\",\"garden_birch_07__lod1\"]}"
+  },
+  "garden_forest_bush_01": {
+   "glb": "vegetation/garden_forest_bush_01.glb",
+   "nodes": [
+    "garden_forest_bush_01__lod0",
+    "garden_forest_bush_01__lod1"
+   ],
+   "instances": "instances/garden_forest_bush_01.bin",
+   "count": 2,
+   "plan": "{\"k\":[\"garden_forest_bush_01__lod0\",\"garden_forest_bush_01__lod1\"]}"
+  },
+  "garden_forest_bush_03": {
+   "glb": "vegetation/garden_forest_bush_03.glb",
+   "nodes": [
+    "garden_forest_bush_03__lod0",
+    "garden_forest_bush_03__lod1"
+   ],
+   "instances": "instances/garden_forest_bush_03.bin",
+   "count": 3,
+   "plan": "{\"k\":[\"garden_forest_bush_03__lod0\",\"garden_forest_bush_03__lod1\"]}"
+  },
+  "garden_forest_bush_05": {
+   "glb": "vegetation/garden_forest_bush_05.glb",
+   "nodes": [
+    "garden_forest_bush_05__lod0",
+    "garden_forest_bush_05__lod1"
+   ],
+   "instances": "instances/garden_forest_bush_05.bin",
+   "count": 2,
+   "plan": "{\"k\":[\"garden_forest_bush_05__lod0\",\"garden_forest_bush_05__lod1\"]}"
+  },
+  "garden_fern_02": {
+   "glb": "vegetation/garden_fern_02.glb",
+   "nodes": [
+    "garden_fern_02__lod0",
+    "garden_fern_02__lod1"
+   ],
+   "instances": "instances/garden_fern_02.bin",
+   "count": 1,
+   "plan": "{\"k\":[\"garden_fern_02__lod0\",\"garden_fern_02__lod1\"]}"
+  }
+ }
+}
